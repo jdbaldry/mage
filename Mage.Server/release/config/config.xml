@@ -30,7 +30,7 @@
     mailSmtpHost        - hostname to send the mail
     mailSmtpPort        - port to send the mail
     mailUser            - username used to send the mail
-    mailPassword        - passworf of the used user to send the mail
+    mailPassword        - password of the used user to send the mail
     mailFromAddress     - sender address
     -->
     <server serverAddress="0.0.0.0"
